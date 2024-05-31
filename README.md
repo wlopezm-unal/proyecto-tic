@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------
----------------------------Correr el script de web scraping usando el cliente SSH-------------------------------------
+Correr el script de web scraping usando el cliente SSH
 ----------------------------------------------------------------------------------------------------------------------
 1. Instalar dependencias
 	* sudo apt-get update
@@ -15,7 +15,7 @@
 	* python3 scraping.py
 
 ----------------------------------------------------------------------------------------------------------------------
-------Pasar el archivo csv generado por el web scraping a s3 usando AWS CLI del usando el cliente SSH-----------------
+Pasar el archivo csv generado por el web scraping a s3 usando AWS CLI del usando el cliente SSH
 ----------------------------------------------------------------------------------------------------------------------
 Pasos para poder subir tu archivo CSV a un bucket de S3 desde tu instancia EC2 usando PuTTY
 1. Instalar las dependencias
